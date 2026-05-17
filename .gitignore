@@ -1,0 +1,23 @@
+// add fike to ignore
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Ignore virtual environment directories
+venv/
+env/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore data files (if any)
+data/
+# Ignore model files (if any)
+models/
+# Ignore log files (if any)
+logs/
+# Ignore temporary files
+*.tmp
+*.log
+# Ignore system files
+.DS_Store
+Thumbs.db
